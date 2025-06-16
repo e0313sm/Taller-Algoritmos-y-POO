@@ -1,4 +1,4 @@
-from Ejercicio_3.cafeteria import Cafetera
+from Ejercicio_3.cafetera import Cafetera
 
 
 def main():
