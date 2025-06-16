@@ -1,4 +1,4 @@
-from Ejercicio_2.cuenta import Cuenta
+from cuenta import Cuenta
 
 def main():
     while True:

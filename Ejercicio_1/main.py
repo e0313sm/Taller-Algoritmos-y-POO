@@ -1,4 +1,4 @@
-from Ejercicio_1.persona import Persona
+from persona import Persona
 
 def main():
     while True:
