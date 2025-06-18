@@ -4,7 +4,6 @@ class Cuenta:
         self.__dni = dni
         self.__saldo = saldo
         self.__interes = interes
-        
     def __genera_numero_cuenta(self):
         if not hasattr(Cuenta, '_cuenta_counter'):
             Cuenta._cuenta_counter = 100000  # Inicia el contador de cuentas
